@@ -1,3 +1,5 @@
 # nodejs_api
 node_api_tutorial
-use mongo Db Localhost
+node app localhost server 8000
+
+use mongo Database Localhost
